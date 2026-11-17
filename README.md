@@ -4,6 +4,10 @@
 
 本项目基于 DeepSeek 官方开源的 [chat-demo](https://github.com/deepseek-ai/chat-demo) 修改，保留其 MIT 许可证与版权声明，并增加原生安卓适配、可拖动 Q 版人物及移动端手势。本项目不是 DeepSeek 官方应用。
 
+## 项目背景
+
+DeepSeek 官方 App 在算力资源紧张时可能会限制对话额度。本项目通过 DeepSeek 开放 API 提供另一种使用方式：不需要部署额外服务器，只需输入自己的 API Key，就可以在安卓设备上构建并使用个人 Chatbot。
+
 ## 功能
 
 - 流式多轮对话、深度思考、联网搜索、链接阅读与来源引用
