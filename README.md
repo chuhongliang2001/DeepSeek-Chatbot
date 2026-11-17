@@ -116,3 +116,5 @@ app/src/main/assets/    打入 APK 的网页编译产物
 特别感谢 DeepSeek 开源 [chat-demo](https://github.com/deepseek-ai/chat-demo)。该项目同样采用 MIT 协议，原版权声明为 `Copyright (c) 2026 DeepSeek`。原始许可证保留在 [web/LICENSE](web/LICENSE)，打包后的网页资源中也包含该许可证。更多信息见 [NOTICE](NOTICE)。
 
 网页端使用的 React、Rspack、KaTeX、Mermaid 等依赖遵循各自的开源许可证。DeepSeek 名称及相关标识的权利归其权利人所有。
+
+本项目为Vibe Coding作品，由Kimi K3.1 Pro在Kimi Code下完成，感谢AI的帮助，让想法变为现实。
