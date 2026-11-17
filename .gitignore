@@ -1,0 +1,37 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+
+# IDE and operating systems
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+
+# Web dependencies and generated output
+web/node_modules/
+web/dist/
+
+# Local tools and temporary reference sources
+.tools/
+.reference-chat-demo/
+
+# Installers and signing material
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example

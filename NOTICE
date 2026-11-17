@@ -1,0 +1,14 @@
+DeepSeek Chatbot
+Copyright (c) 2026 DeepSeek Chatbot contributors
+
+This project includes modified source code from DeepSeek's chat-demo:
+https://github.com/deepseek-ai/chat-demo
+
+Original chat-demo copyright:
+Copyright (c) 2026 DeepSeek
+
+chat-demo is licensed under the MIT License. Its original license is preserved
+at web/LICENSE and in the bundled web assets at app/src/main/assets/chat/LICENSE.
+
+DeepSeek Chatbot is an independent, unofficial project and is not affiliated
+with or endorsed by DeepSeek.

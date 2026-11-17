@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeepSeek Chatbot</string>
+    <string name="open_platform">没有 API Key？前往 DeepSeek 开放平台</string>
+    <string name="api_key_required">请输入 API Key</string>
+    <string name="exit_hint">再滑一次退出</string>
+</resources>
